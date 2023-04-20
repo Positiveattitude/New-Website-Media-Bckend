@@ -1,0 +1,11 @@
+.App {
+    display: flex;
+    background-color: #282c34;
+    flex-direction: column;
+    text-align: center;
+    justify-content: stretch;
+    align-items: stretch;
+    align-content: space-around;
+    /* 100% of the viewport's height */
+    min-height: 100vh;
+}
