@@ -1,4 +1,4 @@
-# New-Website-Media-Frontend
+# New-Website-Media-Backend
 1) Plan your website: Before you start coding, it's important to have a clear idea of what your website will look like and what features it will have. Sketch out a rough design, including a navigation menu, content areas, and any special features you want to include.
 
 2) Set up your development environment: You'll need a text editor to write your code, as well as a web browser to test your website as you build it. You can use any text editor you like, but popular options include Sublime Text, Visual Studio Code, and Atom.
